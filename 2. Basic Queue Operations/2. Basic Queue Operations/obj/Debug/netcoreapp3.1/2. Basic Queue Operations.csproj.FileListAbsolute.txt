@@ -1,0 +1,12 @@
+D:\Softuni C#\C# Advanced Projects\2. Basic Queue Operations\2. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.exe
+D:\Softuni C#\C# Advanced Projects\2. Basic Queue Operations\2. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.deps.json
+D:\Softuni C#\C# Advanced Projects\2. Basic Queue Operations\2. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\2. Basic Queue Operations\2. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\2. Basic Queue Operations\2. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.dll
+D:\Softuni C#\C# Advanced Projects\2. Basic Queue Operations\2. Basic Queue Operations\bin\Debug\netcoreapp3.1\2. Basic Queue Operations.pdb
+D:\Softuni C#\C# Advanced Projects\2. Basic Queue Operations\2. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\2. Basic Queue Operations\2. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\2. Basic Queue Operations\2. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\2. Basic Queue Operations\2. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.dll
+D:\Softuni C#\C# Advanced Projects\2. Basic Queue Operations\2. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.pdb
+D:\Softuni C#\C# Advanced Projects\2. Basic Queue Operations\2. Basic Queue Operations\obj\Debug\netcoreapp3.1\2. Basic Queue Operations.genruntimeconfig.cache
