@@ -1,0 +1,12 @@
+D:\Softuni C#\C# Advanced Projects\5. Fashion Boutique\5. Fashion Boutique\bin\Debug\netcoreapp3.1\5. Fashion Boutique.exe
+D:\Softuni C#\C# Advanced Projects\5. Fashion Boutique\5. Fashion Boutique\bin\Debug\netcoreapp3.1\5. Fashion Boutique.deps.json
+D:\Softuni C#\C# Advanced Projects\5. Fashion Boutique\5. Fashion Boutique\bin\Debug\netcoreapp3.1\5. Fashion Boutique.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\5. Fashion Boutique\5. Fashion Boutique\bin\Debug\netcoreapp3.1\5. Fashion Boutique.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\5. Fashion Boutique\5. Fashion Boutique\bin\Debug\netcoreapp3.1\5. Fashion Boutique.dll
+D:\Softuni C#\C# Advanced Projects\5. Fashion Boutique\5. Fashion Boutique\bin\Debug\netcoreapp3.1\5. Fashion Boutique.pdb
+D:\Softuni C#\C# Advanced Projects\5. Fashion Boutique\5. Fashion Boutique\obj\Debug\netcoreapp3.1\5. Fashion Boutique.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\5. Fashion Boutique\5. Fashion Boutique\obj\Debug\netcoreapp3.1\5. Fashion Boutique.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\5. Fashion Boutique\5. Fashion Boutique\obj\Debug\netcoreapp3.1\5. Fashion Boutique.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\5. Fashion Boutique\5. Fashion Boutique\obj\Debug\netcoreapp3.1\5. Fashion Boutique.dll
+D:\Softuni C#\C# Advanced Projects\5. Fashion Boutique\5. Fashion Boutique\obj\Debug\netcoreapp3.1\5. Fashion Boutique.pdb
+D:\Softuni C#\C# Advanced Projects\5. Fashion Boutique\5. Fashion Boutique\obj\Debug\netcoreapp3.1\5. Fashion Boutique.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Softuni C#\C# Advanced Projects\4. Fast Food\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.exe
+D:\Softuni C#\C# Advanced Projects\4. Fast Food\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.deps.json
+D:\Softuni C#\C# Advanced Projects\4. Fast Food\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\4. Fast Food\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\4. Fast Food\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.dll
+D:\Softuni C#\C# Advanced Projects\4. Fast Food\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.pdb
+D:\Softuni C#\C# Advanced Projects\4. Fast Food\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\4. Fast Food\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\4. Fast Food\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\4. Fast Food\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.dll
+D:\Softuni C#\C# Advanced Projects\4. Fast Food\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.pdb
+D:\Softuni C#\C# Advanced Projects\4. Fast Food\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.genruntimeconfig.cache
