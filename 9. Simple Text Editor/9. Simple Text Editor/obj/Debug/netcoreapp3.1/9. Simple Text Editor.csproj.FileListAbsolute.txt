@@ -1,0 +1,13 @@
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\9. Simple Text Editor\9. Simple Text Editor\bin\Debug\netcoreapp3.1\9. Simple Text Editor.exe
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\9. Simple Text Editor\9. Simple Text Editor\bin\Debug\netcoreapp3.1\9. Simple Text Editor.deps.json
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\9. Simple Text Editor\9. Simple Text Editor\bin\Debug\netcoreapp3.1\9. Simple Text Editor.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\9. Simple Text Editor\9. Simple Text Editor\bin\Debug\netcoreapp3.1\9. Simple Text Editor.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\9. Simple Text Editor\9. Simple Text Editor\bin\Debug\netcoreapp3.1\9. Simple Text Editor.dll
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\9. Simple Text Editor\9. Simple Text Editor\bin\Debug\netcoreapp3.1\9. Simple Text Editor.pdb
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\9. Simple Text Editor\9. Simple Text Editor\obj\Debug\netcoreapp3.1\9. Simple Text Editor.csproj.AssemblyReference.cache
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\9. Simple Text Editor\9. Simple Text Editor\obj\Debug\netcoreapp3.1\9. Simple Text Editor.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\9. Simple Text Editor\9. Simple Text Editor\obj\Debug\netcoreapp3.1\9. Simple Text Editor.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\9. Simple Text Editor\9. Simple Text Editor\obj\Debug\netcoreapp3.1\9. Simple Text Editor.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\9. Simple Text Editor\9. Simple Text Editor\obj\Debug\netcoreapp3.1\9. Simple Text Editor.dll
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\9. Simple Text Editor\9. Simple Text Editor\obj\Debug\netcoreapp3.1\9. Simple Text Editor.pdb
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\9. Simple Text Editor\9. Simple Text Editor\obj\Debug\netcoreapp3.1\9. Simple Text Editor.genruntimeconfig.cache
