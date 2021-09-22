@@ -1,0 +1,13 @@
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\12. Cups and Bottles\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.exe
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\12. Cups and Bottles\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.deps.json
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\12. Cups and Bottles\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\12. Cups and Bottles\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\12. Cups and Bottles\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.dll
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\12. Cups and Bottles\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.pdb
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\12. Cups and Bottles\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.csproj.AssemblyReference.cache
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\12. Cups and Bottles\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\12. Cups and Bottles\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\12. Cups and Bottles\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\12. Cups and Bottles\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.dll
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\12. Cups and Bottles\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.pdb
+D:\Softuni C#\C# Advanced Projects\Stack and Queues\Exercise\12. Cups and Bottles\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.genruntimeconfig.cache
