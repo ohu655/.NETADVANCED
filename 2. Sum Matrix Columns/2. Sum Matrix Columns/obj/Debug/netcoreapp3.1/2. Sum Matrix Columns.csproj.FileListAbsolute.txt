@@ -1,0 +1,13 @@
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\2. Sum Matrix Columns\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.exe
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\2. Sum Matrix Columns\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.deps.json
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\2. Sum Matrix Columns\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\2. Sum Matrix Columns\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\2. Sum Matrix Columns\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.dll
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\2. Sum Matrix Columns\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.pdb
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\2. Sum Matrix Columns\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.csproj.AssemblyReference.cache
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\2. Sum Matrix Columns\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\2. Sum Matrix Columns\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\2. Sum Matrix Columns\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\2. Sum Matrix Columns\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.dll
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\2. Sum Matrix Columns\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.pdb
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\2. Sum Matrix Columns\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.genruntimeconfig.cache
