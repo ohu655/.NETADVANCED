@@ -1,0 +1,13 @@
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\4. Symbol in Matrix\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.exe
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\4. Symbol in Matrix\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.deps.json
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\4. Symbol in Matrix\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\4. Symbol in Matrix\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\4. Symbol in Matrix\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.dll
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\4. Symbol in Matrix\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.pdb
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\4. Symbol in Matrix\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.csproj.AssemblyReference.cache
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\4. Symbol in Matrix\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\4. Symbol in Matrix\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\4. Symbol in Matrix\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\4. Symbol in Matrix\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.dll
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\4. Symbol in Matrix\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.pdb
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Lab\4. Symbol in Matrix\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.genruntimeconfig.cache
