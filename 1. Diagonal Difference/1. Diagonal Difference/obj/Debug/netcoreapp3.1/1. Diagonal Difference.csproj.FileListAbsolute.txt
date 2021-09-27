@@ -1,0 +1,13 @@
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.exe
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.deps.json
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.dll
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.pdb
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.csproj.AssemblyReference.cache
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.dll
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.pdb
+D:\Softuni C#\C# Advanced Projects\Multidimensional arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.genruntimeconfig.cache
