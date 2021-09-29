@@ -1,0 +1,16 @@
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\2. Average Student Grades\2. Average Student Grades\bin\Debug\net5.0\2. Average Student Grades.exe
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\2. Average Student Grades\2. Average Student Grades\bin\Debug\net5.0\2. Average Student Grades.deps.json
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\2. Average Student Grades\2. Average Student Grades\bin\Debug\net5.0\2. Average Student Grades.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\2. Average Student Grades\2. Average Student Grades\bin\Debug\net5.0\2. Average Student Grades.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\2. Average Student Grades\2. Average Student Grades\bin\Debug\net5.0\2. Average Student Grades.dll
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\2. Average Student Grades\2. Average Student Grades\bin\Debug\net5.0\ref\2. Average Student Grades.dll
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\2. Average Student Grades\2. Average Student Grades\bin\Debug\net5.0\2. Average Student Grades.pdb
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\2. Average Student Grades\2. Average Student Grades\obj\Debug\net5.0\2. Average Student Grades.csproj.AssemblyReference.cache
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\2. Average Student Grades\2. Average Student Grades\obj\Debug\net5.0\2. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\2. Average Student Grades\2. Average Student Grades\obj\Debug\net5.0\2. Average Student Grades.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\2. Average Student Grades\2. Average Student Grades\obj\Debug\net5.0\2. Average Student Grades.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\2. Average Student Grades\2. Average Student Grades\obj\Debug\net5.0\2. Average Student Grades.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\2. Average Student Grades\2. Average Student Grades\obj\Debug\net5.0\2. Average Student Grades.dll
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\2. Average Student Grades\2. Average Student Grades\obj\Debug\net5.0\ref\2. Average Student Grades.dll
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\2. Average Student Grades\2. Average Student Grades\obj\Debug\net5.0\2. Average Student Grades.pdb
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\2. Average Student Grades\2. Average Student Grades\obj\Debug\net5.0\2. Average Student Grades.genruntimeconfig.cache

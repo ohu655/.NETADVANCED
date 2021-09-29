@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aV0o2VMnm6cOJ4Esri3Lrf4AR3ZKlTgdUO8UJeky2Gcvl6JzWvXhCsxinhMY3YT1o10nP69JRPwp4PsDCQ0hfQ==",
+  "success": true,
+  "projectFilePath": "D:\\Softuni C#\\C# Advanced Projects\\Sets and Dictionaries Advanced\\Lab\\1. Count Same Values in Array\\1. Count Same Values in Array\\1. Count Same Values in Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\35988\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\35988\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\35988\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\35988\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\3. Product Shop\3. Product Shop\bin\Debug\net5.0\3. Product Shop.exe
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\3. Product Shop\3. Product Shop\bin\Debug\net5.0\3. Product Shop.deps.json
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\3. Product Shop\3. Product Shop\bin\Debug\net5.0\3. Product Shop.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\3. Product Shop\3. Product Shop\bin\Debug\net5.0\3. Product Shop.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\3. Product Shop\3. Product Shop\bin\Debug\net5.0\3. Product Shop.dll
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\3. Product Shop\3. Product Shop\bin\Debug\net5.0\ref\3. Product Shop.dll
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\3. Product Shop\3. Product Shop\bin\Debug\net5.0\3. Product Shop.pdb
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\3. Product Shop\3. Product Shop\obj\Debug\net5.0\3. Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\3. Product Shop\3. Product Shop\obj\Debug\net5.0\3. Product Shop.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\3. Product Shop\3. Product Shop\obj\Debug\net5.0\3. Product Shop.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\3. Product Shop\3. Product Shop\obj\Debug\net5.0\3. Product Shop.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\3. Product Shop\3. Product Shop\obj\Debug\net5.0\3. Product Shop.dll
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\3. Product Shop\3. Product Shop\obj\Debug\net5.0\ref\3. Product Shop.dll
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\3. Product Shop\3. Product Shop\obj\Debug\net5.0\3. Product Shop.pdb
+D:\Softuni C#\C# Advanced Projects\Sets and Dictionaries Advanced\Lab\3. Product Shop\3. Product Shop\obj\Debug\net5.0\3. Product Shop.genruntimeconfig.cache
