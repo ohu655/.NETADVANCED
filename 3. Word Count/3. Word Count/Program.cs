@@ -9,50 +9,41 @@ namespace _3._Word_Count
     {
         static void Main(string[] args)
         {
-            using var sw = new StreamWriter(@"D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\3. Word Count\output.txt");
-            using var srWords = new StreamReader(@"D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\3. Word Count\words.txt");
-            using var srInput = new StreamReader(@"D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\3. Word Count\input.txt");
+            string[] lines = File.ReadAllLines(@"words.txt");
 
-            var keywords = new HashSet<string>();
+            Dictionary<string, int> words = new Dictionary<string, int>();
 
-            while (!srWords.EndOfStream)
+            for (int i = 0; i < lines.Length; i++)
             {
-                string words = srWords.ReadLine().ToLower();
-
-                string[] parts = words.Split();
-
-                for (int i = 0; i < parts.Length; i++)
-                {
-                    keywords.Add(parts[i]);
-                }
+                words.Add(lines[i], 0);
             }
 
-            var output = new Dictionary<string, int>();
+            string[] textLines = File.ReadAllLines(@"text.txt");
 
-            while (!srInput.EndOfStream)
+            foreach (var line in textLines)
             {
-                string row = srInput.ReadLine().ToLower();
-
-                foreach (var item in keywords)
+                foreach (var word in words)
                 {
-                    if (row.Contains(item))
+                    if (line.Contains(word.Key, StringComparison.OrdinalIgnoreCase))
                     {
-                        if (!output.ContainsKey(item))
-                        {
-                            output.Add(item, 1);
-                        }
-                        else
-                        {
-                            output[item] += 1;
-                        }
+                        words[word.Key]++;
                     }
                 }
+               
             }
 
-            foreach (var kvp in output.OrderByDescending(n=> n.Value))
+            foreach (var item in words)
             {
-                sw.WriteLine($"{kvp.Key} - {kvp.Value}");
+                string result = $"{item.Key} - {item.Value}{Environment.NewLine}";
+                File.AppendAllText(@"actualResult.txt", result);
+            }
+
+            foreach (var item in words.OrderByDescending(n => n.Value))
+            {
+                string result = $"{item.Key} - {item.Value}{Environment.NewLine}";
+                File.AppendAllText(@"expectedResult.txt", result);
             }
         }
     }
 }
+

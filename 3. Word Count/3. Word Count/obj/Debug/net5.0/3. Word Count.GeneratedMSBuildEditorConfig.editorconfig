@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = _3._Word_Count
+build_property.ProjectDir = D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\3. Word Count\3. Word Count\

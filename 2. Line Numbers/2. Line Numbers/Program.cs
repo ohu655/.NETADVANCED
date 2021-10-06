@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Linq;
 
 namespace _2._Line_Numbers
 {
@@ -7,20 +8,17 @@ namespace _2._Line_Numbers
     {
         static void Main(string[] args)
         {
-            using var sr = new StreamReader(@"D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\2. Line Numbers\input.txt");
+            string[] lines = File.ReadAllLines(@"text.txt");
+            string path = @".\otput.txt";
 
-            using var sw = new StreamWriter(@"D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\2. Line Numbers\output.txt");
-
-            int count = 1;
-
-            while (!sr.EndOfStream)
+            for (int i = 0; i < lines.Length; i++)
             {
-                string currentRow = sr.ReadLine();
-
-                sw.WriteLine($"{count}. {currentRow}");
-
-                count++;
+                int letterCount = lines[i].Count(symbol => char.IsLetter(symbol));
+                int punctoationCount = lines[i].Count(symbol => char.IsPunctuation(symbol));
+                lines[i] = $"Line {i+1}:{lines[i]}({letterCount})({punctoationCount})";
             }
+
+            File.WriteAllLines(path, lines);
         }
     }
 }

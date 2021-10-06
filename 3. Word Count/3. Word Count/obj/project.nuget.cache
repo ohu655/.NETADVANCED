@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YRMeX5bsmnXg/3xMRK8xrV3D+5rfNEngPMZ6txPqVgn8ep16xqUn9m7bIfqxna+57yDUe1C+TMPjIj6WPOHPQw==",
+  "dgSpecHash": "EQryTYTRpkbXwCCnBGy3UMNfyLZdxY0ToYXS2kg1ZHkviVv53J1Xz7aW2V1qGSFjFZJwSz9CRNJKmso97AhZnA==",
   "success": true,
-  "projectFilePath": "D:\\Softuni C#\\C# Advanced Projects\\Streams Files and Directories\\Lab\\3. Word Count\\3. Word Count\\3. Word Count.csproj",
+  "projectFilePath": "D:\\Softuni C#\\C# Advanced Projects\\Streams Files and Directories\\Exercise\\3. Word Count\\3. Word Count\\3. Word Count.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
