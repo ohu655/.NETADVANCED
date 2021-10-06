@@ -1,0 +1,15 @@
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\6. Zip and Extract\6. Zip and Extract\bin\Debug\net5.0\6. Zip and Extract.exe
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\6. Zip and Extract\6. Zip and Extract\bin\Debug\net5.0\6. Zip and Extract.deps.json
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\6. Zip and Extract\6. Zip and Extract\bin\Debug\net5.0\6. Zip and Extract.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\6. Zip and Extract\6. Zip and Extract\bin\Debug\net5.0\6. Zip and Extract.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\6. Zip and Extract\6. Zip and Extract\bin\Debug\net5.0\6. Zip and Extract.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\6. Zip and Extract\6. Zip and Extract\bin\Debug\net5.0\ref\6. Zip and Extract.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\6. Zip and Extract\6. Zip and Extract\bin\Debug\net5.0\6. Zip and Extract.pdb
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\6. Zip and Extract\6. Zip and Extract\obj\Debug\net5.0\6. Zip and Extract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\6. Zip and Extract\6. Zip and Extract\obj\Debug\net5.0\6. Zip and Extract.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\6. Zip and Extract\6. Zip and Extract\obj\Debug\net5.0\6. Zip and Extract.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\6. Zip and Extract\6. Zip and Extract\obj\Debug\net5.0\6. Zip and Extract.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\6. Zip and Extract\6. Zip and Extract\obj\Debug\net5.0\6. Zip and Extract.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\6. Zip and Extract\6. Zip and Extract\obj\Debug\net5.0\ref\6. Zip and Extract.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\6. Zip and Extract\6. Zip and Extract\obj\Debug\net5.0\6. Zip and Extract.pdb
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\6. Zip and Extract\6. Zip and Extract\obj\Debug\net5.0\6. Zip and Extract.genruntimeconfig.cache

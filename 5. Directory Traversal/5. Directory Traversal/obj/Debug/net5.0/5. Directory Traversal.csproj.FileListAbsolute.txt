@@ -1,0 +1,16 @@
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\5. Directory Traversal\5. Directory Traversal\obj\Debug\net5.0\5. Directory Traversal.csproj.AssemblyReference.cache
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\5. Directory Traversal\5. Directory Traversal\obj\Debug\net5.0\5. Directory Traversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\5. Directory Traversal\5. Directory Traversal\obj\Debug\net5.0\5. Directory Traversal.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\5. Directory Traversal\5. Directory Traversal\obj\Debug\net5.0\5. Directory Traversal.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\5. Directory Traversal\5. Directory Traversal\obj\Debug\net5.0\5. Directory Traversal.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\5. Directory Traversal\5. Directory Traversal\bin\Debug\net5.0\5. Directory Traversal.exe
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\5. Directory Traversal\5. Directory Traversal\bin\Debug\net5.0\5. Directory Traversal.deps.json
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\5. Directory Traversal\5. Directory Traversal\bin\Debug\net5.0\5. Directory Traversal.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\5. Directory Traversal\5. Directory Traversal\bin\Debug\net5.0\5. Directory Traversal.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\5. Directory Traversal\5. Directory Traversal\bin\Debug\net5.0\5. Directory Traversal.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\5. Directory Traversal\5. Directory Traversal\bin\Debug\net5.0\ref\5. Directory Traversal.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\5. Directory Traversal\5. Directory Traversal\bin\Debug\net5.0\5. Directory Traversal.pdb
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\5. Directory Traversal\5. Directory Traversal\obj\Debug\net5.0\5. Directory Traversal.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\5. Directory Traversal\5. Directory Traversal\obj\Debug\net5.0\ref\5. Directory Traversal.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\5. Directory Traversal\5. Directory Traversal\obj\Debug\net5.0\5. Directory Traversal.pdb
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Exercise\5. Directory Traversal\5. Directory Traversal\obj\Debug\net5.0\5. Directory Traversal.genruntimeconfig.cache
