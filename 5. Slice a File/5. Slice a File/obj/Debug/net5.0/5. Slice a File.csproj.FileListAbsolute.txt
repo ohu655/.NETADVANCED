@@ -1,0 +1,15 @@
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\5. Slice a File\5. Slice a File\bin\Debug\net5.0\5. Slice a File.exe
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\5. Slice a File\5. Slice a File\bin\Debug\net5.0\5. Slice a File.deps.json
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\5. Slice a File\5. Slice a File\bin\Debug\net5.0\5. Slice a File.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\5. Slice a File\5. Slice a File\bin\Debug\net5.0\5. Slice a File.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\5. Slice a File\5. Slice a File\bin\Debug\net5.0\5. Slice a File.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\5. Slice a File\5. Slice a File\bin\Debug\net5.0\ref\5. Slice a File.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\5. Slice a File\5. Slice a File\bin\Debug\net5.0\5. Slice a File.pdb
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\5. Slice a File\5. Slice a File\obj\Debug\net5.0\5. Slice a File.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\5. Slice a File\5. Slice a File\obj\Debug\net5.0\5. Slice a File.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\5. Slice a File\5. Slice a File\obj\Debug\net5.0\5. Slice a File.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\5. Slice a File\5. Slice a File\obj\Debug\net5.0\5. Slice a File.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\5. Slice a File\5. Slice a File\obj\Debug\net5.0\5. Slice a File.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\5. Slice a File\5. Slice a File\obj\Debug\net5.0\ref\5. Slice a File.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\5. Slice a File\5. Slice a File\obj\Debug\net5.0\5. Slice a File.pdb
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\5. Slice a File\5. Slice a File\obj\Debug\net5.0\5. Slice a File.genruntimeconfig.cache

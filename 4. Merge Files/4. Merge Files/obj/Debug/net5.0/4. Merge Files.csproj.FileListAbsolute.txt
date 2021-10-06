@@ -1,0 +1,15 @@
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\4. Merge Files\4. Merge Files\bin\Debug\net5.0\4. Merge Files.exe
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\4. Merge Files\4. Merge Files\bin\Debug\net5.0\4. Merge Files.deps.json
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\4. Merge Files\4. Merge Files\bin\Debug\net5.0\4. Merge Files.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\4. Merge Files\4. Merge Files\bin\Debug\net5.0\4. Merge Files.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\4. Merge Files\4. Merge Files\bin\Debug\net5.0\4. Merge Files.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\4. Merge Files\4. Merge Files\bin\Debug\net5.0\ref\4. Merge Files.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\4. Merge Files\4. Merge Files\bin\Debug\net5.0\4. Merge Files.pdb
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\4. Merge Files\4. Merge Files\obj\Debug\net5.0\4. Merge Files.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\4. Merge Files\4. Merge Files\obj\Debug\net5.0\4. Merge Files.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\4. Merge Files\4. Merge Files\obj\Debug\net5.0\4. Merge Files.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\4. Merge Files\4. Merge Files\obj\Debug\net5.0\4. Merge Files.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\4. Merge Files\4. Merge Files\obj\Debug\net5.0\4. Merge Files.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\4. Merge Files\4. Merge Files\obj\Debug\net5.0\ref\4. Merge Files.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\4. Merge Files\4. Merge Files\obj\Debug\net5.0\4. Merge Files.pdb
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\4. Merge Files\4. Merge Files\obj\Debug\net5.0\4. Merge Files.genruntimeconfig.cache

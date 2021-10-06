@@ -1,0 +1,15 @@
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\6. Folder Size\6. Folder Size\bin\Debug\net5.0\6. Folder Size.exe
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\6. Folder Size\6. Folder Size\bin\Debug\net5.0\6. Folder Size.deps.json
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\6. Folder Size\6. Folder Size\bin\Debug\net5.0\6. Folder Size.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\6. Folder Size\6. Folder Size\bin\Debug\net5.0\6. Folder Size.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\6. Folder Size\6. Folder Size\bin\Debug\net5.0\6. Folder Size.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\6. Folder Size\6. Folder Size\bin\Debug\net5.0\ref\6. Folder Size.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\6. Folder Size\6. Folder Size\bin\Debug\net5.0\6. Folder Size.pdb
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\6. Folder Size\6. Folder Size\obj\Debug\net5.0\6. Folder Size.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\6. Folder Size\6. Folder Size\obj\Debug\net5.0\6. Folder Size.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\6. Folder Size\6. Folder Size\obj\Debug\net5.0\6. Folder Size.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\6. Folder Size\6. Folder Size\obj\Debug\net5.0\6. Folder Size.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\6. Folder Size\6. Folder Size\obj\Debug\net5.0\6. Folder Size.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\6. Folder Size\6. Folder Size\obj\Debug\net5.0\ref\6. Folder Size.dll
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\6. Folder Size\6. Folder Size\obj\Debug\net5.0\6. Folder Size.pdb
+D:\Softuni C#\C# Advanced Projects\Streams Files and Directories\Lab\6. Folder Size\6. Folder Size\obj\Debug\net5.0\6. Folder Size.genruntimeconfig.cache
