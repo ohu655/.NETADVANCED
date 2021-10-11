@@ -1,0 +1,16 @@
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\5. Filter by Age\5. Filter by Age\bin\Debug\net5.0\5. Filter by Age.exe
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\5. Filter by Age\5. Filter by Age\bin\Debug\net5.0\5. Filter by Age.deps.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\5. Filter by Age\5. Filter by Age\bin\Debug\net5.0\5. Filter by Age.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\5. Filter by Age\5. Filter by Age\bin\Debug\net5.0\5. Filter by Age.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\5. Filter by Age\5. Filter by Age\bin\Debug\net5.0\5. Filter by Age.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\5. Filter by Age\5. Filter by Age\bin\Debug\net5.0\ref\5. Filter by Age.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\5. Filter by Age\5. Filter by Age\bin\Debug\net5.0\5. Filter by Age.pdb
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\5. Filter by Age\5. Filter by Age\obj\Debug\net5.0\5. Filter by Age.csproj.AssemblyReference.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\5. Filter by Age\5. Filter by Age\obj\Debug\net5.0\5. Filter by Age.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\5. Filter by Age\5. Filter by Age\obj\Debug\net5.0\5. Filter by Age.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\5. Filter by Age\5. Filter by Age\obj\Debug\net5.0\5. Filter by Age.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\5. Filter by Age\5. Filter by Age\obj\Debug\net5.0\5. Filter by Age.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\5. Filter by Age\5. Filter by Age\obj\Debug\net5.0\5. Filter by Age.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\5. Filter by Age\5. Filter by Age\obj\Debug\net5.0\ref\5. Filter by Age.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\5. Filter by Age\5. Filter by Age\obj\Debug\net5.0\5. Filter by Age.pdb
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\5. Filter by Age\5. Filter by Age\obj\Debug\net5.0\5. Filter by Age.genruntimeconfig.cache
