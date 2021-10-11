@@ -1,0 +1,15 @@
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\11. Party Reservation Filter Module\11. Party Reservation Filter Module\obj\Debug\net5.0\11. Party Reservation Filter Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\11. Party Reservation Filter Module\11. Party Reservation Filter Module\obj\Debug\net5.0\11. Party Reservation Filter Module.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\11. Party Reservation Filter Module\11. Party Reservation Filter Module\obj\Debug\net5.0\11. Party Reservation Filter Module.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\11. Party Reservation Filter Module\11. Party Reservation Filter Module\obj\Debug\net5.0\11. Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\11. Party Reservation Filter Module\11. Party Reservation Filter Module\bin\Debug\net5.0\11. Party Reservation Filter Module.exe
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\11. Party Reservation Filter Module\11. Party Reservation Filter Module\bin\Debug\net5.0\11. Party Reservation Filter Module.deps.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\11. Party Reservation Filter Module\11. Party Reservation Filter Module\bin\Debug\net5.0\11. Party Reservation Filter Module.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\11. Party Reservation Filter Module\11. Party Reservation Filter Module\bin\Debug\net5.0\11. Party Reservation Filter Module.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\11. Party Reservation Filter Module\11. Party Reservation Filter Module\bin\Debug\net5.0\11. Party Reservation Filter Module.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\11. Party Reservation Filter Module\11. Party Reservation Filter Module\bin\Debug\net5.0\ref\11. Party Reservation Filter Module.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\11. Party Reservation Filter Module\11. Party Reservation Filter Module\bin\Debug\net5.0\11. Party Reservation Filter Module.pdb
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\11. Party Reservation Filter Module\11. Party Reservation Filter Module\obj\Debug\net5.0\11. Party Reservation Filter Module.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\11. Party Reservation Filter Module\11. Party Reservation Filter Module\obj\Debug\net5.0\ref\11. Party Reservation Filter Module.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\11. Party Reservation Filter Module\11. Party Reservation Filter Module\obj\Debug\net5.0\11. Party Reservation Filter Module.pdb
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\11. Party Reservation Filter Module\11. Party Reservation Filter Module\obj\Debug\net5.0\11. Party Reservation Filter Module.genruntimeconfig.cache

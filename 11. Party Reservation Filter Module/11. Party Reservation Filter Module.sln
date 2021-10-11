@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Party Reservation Filter Module", "11. Party Reservation Filter Module\11. Party Reservation Filter Module.csproj", "{110C6040-5AD8-4EC6-B44F-262EA5BEE2EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110C6040-5AD8-4EC6-B44F-262EA5BEE2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110C6040-5AD8-4EC6-B44F-262EA5BEE2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110C6040-5AD8-4EC6-B44F-262EA5BEE2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110C6040-5AD8-4EC6-B44F-262EA5BEE2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FBEFB22-8008-47AD-9B46-D1E9BA5D65B4}
+	EndGlobalSection
+EndGlobal
