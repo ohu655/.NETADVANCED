@@ -1,0 +1,16 @@
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\1. Sort Even Numbers\1. Sort Even Numbers\bin\Debug\net5.0\1. Sort Even Numbers.exe
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\1. Sort Even Numbers\1. Sort Even Numbers\bin\Debug\net5.0\1. Sort Even Numbers.deps.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\1. Sort Even Numbers\1. Sort Even Numbers\bin\Debug\net5.0\1. Sort Even Numbers.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\1. Sort Even Numbers\1. Sort Even Numbers\bin\Debug\net5.0\1. Sort Even Numbers.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\1. Sort Even Numbers\1. Sort Even Numbers\bin\Debug\net5.0\1. Sort Even Numbers.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\1. Sort Even Numbers\1. Sort Even Numbers\bin\Debug\net5.0\ref\1. Sort Even Numbers.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\1. Sort Even Numbers\1. Sort Even Numbers\bin\Debug\net5.0\1. Sort Even Numbers.pdb
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net5.0\1. Sort Even Numbers.csproj.AssemblyReference.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net5.0\1. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net5.0\1. Sort Even Numbers.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net5.0\1. Sort Even Numbers.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net5.0\1. Sort Even Numbers.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net5.0\1. Sort Even Numbers.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net5.0\ref\1. Sort Even Numbers.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net5.0\1. Sort Even Numbers.pdb
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Lab\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net5.0\1. Sort Even Numbers.genruntimeconfig.cache
