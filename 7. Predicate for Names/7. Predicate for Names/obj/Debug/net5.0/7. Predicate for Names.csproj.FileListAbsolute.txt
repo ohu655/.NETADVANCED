@@ -1,0 +1,15 @@
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\7. Predicate for Names\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.exe
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\7. Predicate for Names\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.deps.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\7. Predicate for Names\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\7. Predicate for Names\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\7. Predicate for Names\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\7. Predicate for Names\7. Predicate for Names\bin\Debug\net5.0\ref\7. Predicate for Names.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\7. Predicate for Names\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.pdb
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\7. Predicate for Names\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\7. Predicate for Names\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\7. Predicate for Names\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\7. Predicate for Names\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\7. Predicate for Names\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\7. Predicate for Names\7. Predicate for Names\obj\Debug\net5.0\ref\7. Predicate for Names.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\7. Predicate for Names\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.pdb
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\7. Predicate for Names\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.genruntimeconfig.cache

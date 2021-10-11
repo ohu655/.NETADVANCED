@@ -1,0 +1,15 @@
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\9. List of Predicates\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.exe
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\9. List of Predicates\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.deps.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\9. List of Predicates\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\9. List of Predicates\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\9. List of Predicates\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\9. List of Predicates\9. List of Predicates\bin\Debug\net5.0\ref\9. List of Predicates.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\9. List of Predicates\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.pdb
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\9. List of Predicates\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\9. List of Predicates\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\9. List of Predicates\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\9. List of Predicates\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\9. List of Predicates\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\9. List of Predicates\9. List of Predicates\obj\Debug\net5.0\ref\9. List of Predicates.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\9. List of Predicates\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.pdb
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\9. List of Predicates\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.genruntimeconfig.cache
