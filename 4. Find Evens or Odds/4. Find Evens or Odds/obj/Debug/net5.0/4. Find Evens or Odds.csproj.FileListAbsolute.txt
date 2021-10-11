@@ -1,0 +1,16 @@
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\4. Find Evens or Odds\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.exe
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\4. Find Evens or Odds\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.deps.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\4. Find Evens or Odds\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\4. Find Evens or Odds\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\4. Find Evens or Odds\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\4. Find Evens or Odds\4. Find Evens or Odds\bin\Debug\net5.0\ref\4. Find Evens or Odds.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\4. Find Evens or Odds\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.pdb
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\4. Find Evens or Odds\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.csproj.AssemblyReference.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\4. Find Evens or Odds\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\4. Find Evens or Odds\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\4. Find Evens or Odds\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\4. Find Evens or Odds\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\4. Find Evens or Odds\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\4. Find Evens or Odds\4. Find Evens or Odds\obj\Debug\net5.0\ref\4. Find Evens or Odds.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\4. Find Evens or Odds\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.pdb
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\4. Find Evens or Odds\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.genruntimeconfig.cache
