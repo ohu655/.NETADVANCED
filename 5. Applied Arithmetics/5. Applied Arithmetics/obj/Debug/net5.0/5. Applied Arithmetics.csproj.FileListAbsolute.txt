@@ -1,0 +1,16 @@
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\5. Applied Arithmetics\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.exe
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\5. Applied Arithmetics\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.deps.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\5. Applied Arithmetics\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\5. Applied Arithmetics\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\5. Applied Arithmetics\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\5. Applied Arithmetics\5. Applied Arithmetics\bin\Debug\net5.0\ref\5. Applied Arithmetics.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\5. Applied Arithmetics\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.pdb
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\5. Applied Arithmetics\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.csproj.AssemblyReference.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\5. Applied Arithmetics\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\5. Applied Arithmetics\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\5. Applied Arithmetics\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\5. Applied Arithmetics\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\5. Applied Arithmetics\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\5. Applied Arithmetics\5. Applied Arithmetics\obj\Debug\net5.0\ref\5. Applied Arithmetics.dll
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\5. Applied Arithmetics\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.pdb
+D:\Softuni C#\C# Advanced Projects\Functional Programming\Exercise\5. Applied Arithmetics\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.genruntimeconfig.cache
