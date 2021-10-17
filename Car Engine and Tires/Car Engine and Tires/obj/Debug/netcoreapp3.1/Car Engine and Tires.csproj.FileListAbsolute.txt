@@ -1,0 +1,13 @@
+D:\Car Engine and Tires\Car Engine and Tires\bin\Debug\netcoreapp3.1\Car Engine and Tires.exe
+D:\Car Engine and Tires\Car Engine and Tires\bin\Debug\netcoreapp3.1\Car Engine and Tires.deps.json
+D:\Car Engine and Tires\Car Engine and Tires\bin\Debug\netcoreapp3.1\Car Engine and Tires.runtimeconfig.json
+D:\Car Engine and Tires\Car Engine and Tires\bin\Debug\netcoreapp3.1\Car Engine and Tires.runtimeconfig.dev.json
+D:\Car Engine and Tires\Car Engine and Tires\bin\Debug\netcoreapp3.1\Car Engine and Tires.dll
+D:\Car Engine and Tires\Car Engine and Tires\bin\Debug\netcoreapp3.1\Car Engine and Tires.pdb
+D:\Car Engine and Tires\Car Engine and Tires\obj\Debug\netcoreapp3.1\Car Engine and Tires.csprojAssemblyReference.cache
+D:\Car Engine and Tires\Car Engine and Tires\obj\Debug\netcoreapp3.1\Car Engine and Tires.AssemblyInfoInputs.cache
+D:\Car Engine and Tires\Car Engine and Tires\obj\Debug\netcoreapp3.1\Car Engine and Tires.AssemblyInfo.cs
+D:\Car Engine and Tires\Car Engine and Tires\obj\Debug\netcoreapp3.1\Car Engine and Tires.csproj.CoreCompileInputs.cache
+D:\Car Engine and Tires\Car Engine and Tires\obj\Debug\netcoreapp3.1\Car Engine and Tires.dll
+D:\Car Engine and Tires\Car Engine and Tires\obj\Debug\netcoreapp3.1\Car Engine and Tires.pdb
+D:\Car Engine and Tires\Car Engine and Tires\obj\Debug\netcoreapp3.1\Car Engine and Tires.genruntimeconfig.cache
