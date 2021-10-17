@@ -1,0 +1,13 @@
+D:\CarManufacturerExtension\CarManufacturerExtension\bin\Debug\netcoreapp3.1\CarManufacturerExtension.exe
+D:\CarManufacturerExtension\CarManufacturerExtension\bin\Debug\netcoreapp3.1\CarManufacturerExtension.deps.json
+D:\CarManufacturerExtension\CarManufacturerExtension\bin\Debug\netcoreapp3.1\CarManufacturerExtension.runtimeconfig.json
+D:\CarManufacturerExtension\CarManufacturerExtension\bin\Debug\netcoreapp3.1\CarManufacturerExtension.runtimeconfig.dev.json
+D:\CarManufacturerExtension\CarManufacturerExtension\bin\Debug\netcoreapp3.1\CarManufacturerExtension.dll
+D:\CarManufacturerExtension\CarManufacturerExtension\bin\Debug\netcoreapp3.1\CarManufacturerExtension.pdb
+D:\CarManufacturerExtension\CarManufacturerExtension\obj\Debug\netcoreapp3.1\CarManufacturerExtension.csprojAssemblyReference.cache
+D:\CarManufacturerExtension\CarManufacturerExtension\obj\Debug\netcoreapp3.1\CarManufacturerExtension.AssemblyInfoInputs.cache
+D:\CarManufacturerExtension\CarManufacturerExtension\obj\Debug\netcoreapp3.1\CarManufacturerExtension.AssemblyInfo.cs
+D:\CarManufacturerExtension\CarManufacturerExtension\obj\Debug\netcoreapp3.1\CarManufacturerExtension.csproj.CoreCompileInputs.cache
+D:\CarManufacturerExtension\CarManufacturerExtension\obj\Debug\netcoreapp3.1\CarManufacturerExtension.dll
+D:\CarManufacturerExtension\CarManufacturerExtension\obj\Debug\netcoreapp3.1\CarManufacturerExtension.pdb
+D:\CarManufacturerExtension\CarManufacturerExtension\obj\Debug\netcoreapp3.1\CarManufacturerExtension.genruntimeconfig.cache

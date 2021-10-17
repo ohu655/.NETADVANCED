@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\grabl\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\grabl\\.nuget\\packages"
+    ]
+  }
+}
