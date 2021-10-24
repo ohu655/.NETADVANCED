@@ -1,0 +1,14 @@
+D:\Softuni C#\C# Advanced Projects\Defining classes\3. Oldest Family Member\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.exe
+D:\Softuni C#\C# Advanced Projects\Defining classes\3. Oldest Family Member\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.deps.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\3. Oldest Family Member\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\3. Oldest Family Member\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\3. Oldest Family Member\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.dll
+D:\Softuni C#\C# Advanced Projects\Defining classes\3. Oldest Family Member\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.pdb
+D:\Softuni C#\C# Advanced Projects\Defining classes\3. Oldest Family Member\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.csproj.AssemblyReference.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\3. Oldest Family Member\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Defining classes\3. Oldest Family Member\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\3. Oldest Family Member\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Defining classes\3. Oldest Family Member\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\3. Oldest Family Member\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.dll
+D:\Softuni C#\C# Advanced Projects\Defining classes\3. Oldest Family Member\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.pdb
+D:\Softuni C#\C# Advanced Projects\Defining classes\3. Oldest Family Member\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.genruntimeconfig.cache

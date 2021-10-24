@@ -1,0 +1,14 @@
+D:\Softuni C#\C# Advanced Projects\Defining classes\1. Define a Class Person\1. Define a Class Person\bin\Debug\netcoreapp3.1\1. Define a Class Person.exe
+D:\Softuni C#\C# Advanced Projects\Defining classes\1. Define a Class Person\1. Define a Class Person\bin\Debug\netcoreapp3.1\1. Define a Class Person.deps.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\1. Define a Class Person\1. Define a Class Person\bin\Debug\netcoreapp3.1\1. Define a Class Person.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\1. Define a Class Person\1. Define a Class Person\bin\Debug\netcoreapp3.1\1. Define a Class Person.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\1. Define a Class Person\1. Define a Class Person\bin\Debug\netcoreapp3.1\1. Define a Class Person.dll
+D:\Softuni C#\C# Advanced Projects\Defining classes\1. Define a Class Person\1. Define a Class Person\bin\Debug\netcoreapp3.1\1. Define a Class Person.pdb
+D:\Softuni C#\C# Advanced Projects\Defining classes\1. Define a Class Person\1. Define a Class Person\obj\Debug\netcoreapp3.1\1. Define a Class Person.csproj.AssemblyReference.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\1. Define a Class Person\1. Define a Class Person\obj\Debug\netcoreapp3.1\1. Define a Class Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Defining classes\1. Define a Class Person\1. Define a Class Person\obj\Debug\netcoreapp3.1\1. Define a Class Person.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\1. Define a Class Person\1. Define a Class Person\obj\Debug\netcoreapp3.1\1. Define a Class Person.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Defining classes\1. Define a Class Person\1. Define a Class Person\obj\Debug\netcoreapp3.1\1. Define a Class Person.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\1. Define a Class Person\1. Define a Class Person\obj\Debug\netcoreapp3.1\1. Define a Class Person.dll
+D:\Softuni C#\C# Advanced Projects\Defining classes\1. Define a Class Person\1. Define a Class Person\obj\Debug\netcoreapp3.1\1. Define a Class Person.pdb
+D:\Softuni C#\C# Advanced Projects\Defining classes\1. Define a Class Person\1. Define a Class Person\obj\Debug\netcoreapp3.1\1. Define a Class Person.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Softuni C#\C# Advanced Projects\Defining classes\2. Creating Consrtuctors\2. Creating Consrtuctors\bin\Debug\netcoreapp3.1\2. Creating Consrtuctors.exe
+D:\Softuni C#\C# Advanced Projects\Defining classes\2. Creating Consrtuctors\2. Creating Consrtuctors\bin\Debug\netcoreapp3.1\2. Creating Consrtuctors.deps.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\2. Creating Consrtuctors\2. Creating Consrtuctors\bin\Debug\netcoreapp3.1\2. Creating Consrtuctors.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\2. Creating Consrtuctors\2. Creating Consrtuctors\bin\Debug\netcoreapp3.1\2. Creating Consrtuctors.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\2. Creating Consrtuctors\2. Creating Consrtuctors\bin\Debug\netcoreapp3.1\2. Creating Consrtuctors.dll
+D:\Softuni C#\C# Advanced Projects\Defining classes\2. Creating Consrtuctors\2. Creating Consrtuctors\bin\Debug\netcoreapp3.1\2. Creating Consrtuctors.pdb
+D:\Softuni C#\C# Advanced Projects\Defining classes\2. Creating Consrtuctors\2. Creating Consrtuctors\obj\Debug\netcoreapp3.1\2. Creating Consrtuctors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Defining classes\2. Creating Consrtuctors\2. Creating Consrtuctors\obj\Debug\netcoreapp3.1\2. Creating Consrtuctors.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\2. Creating Consrtuctors\2. Creating Consrtuctors\obj\Debug\netcoreapp3.1\2. Creating Consrtuctors.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Defining classes\2. Creating Consrtuctors\2. Creating Consrtuctors\obj\Debug\netcoreapp3.1\2. Creating Consrtuctors.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\2. Creating Consrtuctors\2. Creating Consrtuctors\obj\Debug\netcoreapp3.1\2. Creating Consrtuctors.dll
+D:\Softuni C#\C# Advanced Projects\Defining classes\2. Creating Consrtuctors\2. Creating Consrtuctors\obj\Debug\netcoreapp3.1\2. Creating Consrtuctors.pdb
+D:\Softuni C#\C# Advanced Projects\Defining classes\2. Creating Consrtuctors\2. Creating Consrtuctors\obj\Debug\netcoreapp3.1\2. Creating Consrtuctors.genruntimeconfig.cache
