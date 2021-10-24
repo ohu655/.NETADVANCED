@@ -1,0 +1,14 @@
+D:\Softuni C#\C# Advanced Projects\Defining classes\4.PokemonTrainer\4.PokemonTrainer\bin\Debug\netcoreapp3.1\4.PokemonTrainer.exe
+D:\Softuni C#\C# Advanced Projects\Defining classes\4.PokemonTrainer\4.PokemonTrainer\bin\Debug\netcoreapp3.1\4.PokemonTrainer.deps.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\4.PokemonTrainer\4.PokemonTrainer\bin\Debug\netcoreapp3.1\4.PokemonTrainer.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\4.PokemonTrainer\4.PokemonTrainer\bin\Debug\netcoreapp3.1\4.PokemonTrainer.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\4.PokemonTrainer\4.PokemonTrainer\bin\Debug\netcoreapp3.1\4.PokemonTrainer.dll
+D:\Softuni C#\C# Advanced Projects\Defining classes\4.PokemonTrainer\4.PokemonTrainer\bin\Debug\netcoreapp3.1\4.PokemonTrainer.pdb
+D:\Softuni C#\C# Advanced Projects\Defining classes\4.PokemonTrainer\4.PokemonTrainer\obj\Debug\netcoreapp3.1\4.PokemonTrainer.csproj.AssemblyReference.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\4.PokemonTrainer\4.PokemonTrainer\obj\Debug\netcoreapp3.1\4.PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Defining classes\4.PokemonTrainer\4.PokemonTrainer\obj\Debug\netcoreapp3.1\4.PokemonTrainer.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\4.PokemonTrainer\4.PokemonTrainer\obj\Debug\netcoreapp3.1\4.PokemonTrainer.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Defining classes\4.PokemonTrainer\4.PokemonTrainer\obj\Debug\netcoreapp3.1\4.PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\4.PokemonTrainer\4.PokemonTrainer\obj\Debug\netcoreapp3.1\4.PokemonTrainer.dll
+D:\Softuni C#\C# Advanced Projects\Defining classes\4.PokemonTrainer\4.PokemonTrainer\obj\Debug\netcoreapp3.1\4.PokemonTrainer.pdb
+D:\Softuni C#\C# Advanced Projects\Defining classes\4.PokemonTrainer\4.PokemonTrainer\obj\Debug\netcoreapp3.1\4.PokemonTrainer.genruntimeconfig.cache

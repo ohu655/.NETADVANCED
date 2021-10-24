@@ -1,0 +1,14 @@
+D:\Softuni C#\C# Advanced Projects\Defining classes\4. Opinion Poll\4. Opinion Poll\obj\Debug\netcoreapp3.1\4. Opinion Poll.csproj.AssemblyReference.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\4. Opinion Poll\4. Opinion Poll\obj\Debug\netcoreapp3.1\4. Opinion Poll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Defining classes\4. Opinion Poll\4. Opinion Poll\obj\Debug\netcoreapp3.1\4. Opinion Poll.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\4. Opinion Poll\4. Opinion Poll\obj\Debug\netcoreapp3.1\4. Opinion Poll.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Defining classes\4. Opinion Poll\4. Opinion Poll\obj\Debug\netcoreapp3.1\4. Opinion Poll.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\4. Opinion Poll\4. Opinion Poll\bin\Debug\netcoreapp3.1\4. Opinion Poll.exe
+D:\Softuni C#\C# Advanced Projects\Defining classes\4. Opinion Poll\4. Opinion Poll\bin\Debug\netcoreapp3.1\4. Opinion Poll.deps.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\4. Opinion Poll\4. Opinion Poll\bin\Debug\netcoreapp3.1\4. Opinion Poll.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\4. Opinion Poll\4. Opinion Poll\bin\Debug\netcoreapp3.1\4. Opinion Poll.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\4. Opinion Poll\4. Opinion Poll\bin\Debug\netcoreapp3.1\4. Opinion Poll.dll
+D:\Softuni C#\C# Advanced Projects\Defining classes\4. Opinion Poll\4. Opinion Poll\bin\Debug\netcoreapp3.1\4. Opinion Poll.pdb
+D:\Softuni C#\C# Advanced Projects\Defining classes\4. Opinion Poll\4. Opinion Poll\obj\Debug\netcoreapp3.1\4. Opinion Poll.dll
+D:\Softuni C#\C# Advanced Projects\Defining classes\4. Opinion Poll\4. Opinion Poll\obj\Debug\netcoreapp3.1\4. Opinion Poll.pdb
+D:\Softuni C#\C# Advanced Projects\Defining classes\4. Opinion Poll\4. Opinion Poll\obj\Debug\netcoreapp3.1\4. Opinion Poll.genruntimeconfig.cache
