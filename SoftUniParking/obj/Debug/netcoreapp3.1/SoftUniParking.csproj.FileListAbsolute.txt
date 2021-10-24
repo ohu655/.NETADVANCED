@@ -1,0 +1,14 @@
+D:\Softuni C#\C# Advanced Projects\Defining classes\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.exe
+D:\Softuni C#\C# Advanced Projects\Defining classes\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.deps.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.dev.json
+D:\Softuni C#\C# Advanced Projects\Defining classes\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.dll
+D:\Softuni C#\C# Advanced Projects\Defining classes\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.pdb
+D:\Softuni C#\C# Advanced Projects\Defining classes\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.AssemblyReference.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\C# Advanced Projects\Defining classes\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfoInputs.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfo.cs
+D:\Softuni C#\C# Advanced Projects\Defining classes\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.CoreCompileInputs.cache
+D:\Softuni C#\C# Advanced Projects\Defining classes\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.dll
+D:\Softuni C#\C# Advanced Projects\Defining classes\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.pdb
+D:\Softuni C#\C# Advanced Projects\Defining classes\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.genruntimeconfig.cache
