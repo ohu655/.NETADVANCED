@@ -1,0 +1,13 @@
+D:\Softuni C#\OOP\Inheritance\CustomRandomList\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.exe
+D:\Softuni C#\OOP\Inheritance\CustomRandomList\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.deps.json
+D:\Softuni C#\OOP\Inheritance\CustomRandomList\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.json
+D:\Softuni C#\OOP\Inheritance\CustomRandomList\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.dev.json
+D:\Softuni C#\OOP\Inheritance\CustomRandomList\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.dll
+D:\Softuni C#\OOP\Inheritance\CustomRandomList\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.pdb
+D:\Softuni C#\OOP\Inheritance\CustomRandomList\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\OOP\Inheritance\CustomRandomList\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfoInputs.cache
+D:\Softuni C#\OOP\Inheritance\CustomRandomList\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfo.cs
+D:\Softuni C#\OOP\Inheritance\CustomRandomList\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.csproj.CoreCompileInputs.cache
+D:\Softuni C#\OOP\Inheritance\CustomRandomList\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.dll
+D:\Softuni C#\OOP\Inheritance\CustomRandomList\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.pdb
+D:\Softuni C#\OOP\Inheritance\CustomRandomList\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.genruntimeconfig.cache
