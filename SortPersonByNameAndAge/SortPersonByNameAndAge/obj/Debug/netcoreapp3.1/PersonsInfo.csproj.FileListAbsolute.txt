@@ -1,0 +1,13 @@
+D:\Softuni C#\OOP\Encapsulation\SortPersonByNameAndAge\SortPersonByNameAndAge\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+D:\Softuni C#\OOP\Encapsulation\SortPersonByNameAndAge\SortPersonByNameAndAge\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+D:\Softuni C#\OOP\Encapsulation\SortPersonByNameAndAge\SortPersonByNameAndAge\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+D:\Softuni C#\OOP\Encapsulation\SortPersonByNameAndAge\SortPersonByNameAndAge\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+D:\Softuni C#\OOP\Encapsulation\SortPersonByNameAndAge\SortPersonByNameAndAge\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\Softuni C#\OOP\Encapsulation\SortPersonByNameAndAge\SortPersonByNameAndAge\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\Softuni C#\OOP\Encapsulation\SortPersonByNameAndAge\SortPersonByNameAndAge\obj\Debug\netcoreapp3.1\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\OOP\Encapsulation\SortPersonByNameAndAge\SortPersonByNameAndAge\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+D:\Softuni C#\OOP\Encapsulation\SortPersonByNameAndAge\SortPersonByNameAndAge\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+D:\Softuni C#\OOP\Encapsulation\SortPersonByNameAndAge\SortPersonByNameAndAge\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+D:\Softuni C#\OOP\Encapsulation\SortPersonByNameAndAge\SortPersonByNameAndAge\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\Softuni C#\OOP\Encapsulation\SortPersonByNameAndAge\SortPersonByNameAndAge\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\Softuni C#\OOP\Encapsulation\SortPersonByNameAndAge\SortPersonByNameAndAge\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache
