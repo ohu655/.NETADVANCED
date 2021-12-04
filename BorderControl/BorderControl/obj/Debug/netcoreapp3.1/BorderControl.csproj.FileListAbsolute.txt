@@ -1,0 +1,13 @@
+D:\Softuni C#\OOP\Abstraction\BorderControl\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+D:\Softuni C#\OOP\Abstraction\BorderControl\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+D:\Softuni C#\OOP\Abstraction\BorderControl\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+D:\Softuni C#\OOP\Abstraction\BorderControl\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+D:\Softuni C#\OOP\Abstraction\BorderControl\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+D:\Softuni C#\OOP\Abstraction\BorderControl\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+D:\Softuni C#\OOP\Abstraction\BorderControl\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\OOP\Abstraction\BorderControl\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+D:\Softuni C#\OOP\Abstraction\BorderControl\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+D:\Softuni C#\OOP\Abstraction\BorderControl\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+D:\Softuni C#\OOP\Abstraction\BorderControl\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+D:\Softuni C#\OOP\Abstraction\BorderControl\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
+D:\Softuni C#\OOP\Abstraction\BorderControl\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache
