@@ -1,0 +1,14 @@
+D:\Softuni C#\OOP\Abstraction\MilitaryElite\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.exe
+D:\Softuni C#\OOP\Abstraction\MilitaryElite\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.deps.json
+D:\Softuni C#\OOP\Abstraction\MilitaryElite\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.json
+D:\Softuni C#\OOP\Abstraction\MilitaryElite\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.dev.json
+D:\Softuni C#\OOP\Abstraction\MilitaryElite\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.dll
+D:\Softuni C#\OOP\Abstraction\MilitaryElite\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.pdb
+D:\Softuni C#\OOP\Abstraction\MilitaryElite\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.AssemblyReference.cache
+D:\Softuni C#\OOP\Abstraction\MilitaryElite\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\OOP\Abstraction\MilitaryElite\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfoInputs.cache
+D:\Softuni C#\OOP\Abstraction\MilitaryElite\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfo.cs
+D:\Softuni C#\OOP\Abstraction\MilitaryElite\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.CoreCompileInputs.cache
+D:\Softuni C#\OOP\Abstraction\MilitaryElite\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.dll
+D:\Softuni C#\OOP\Abstraction\MilitaryElite\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.pdb
+D:\Softuni C#\OOP\Abstraction\MilitaryElite\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.genruntimeconfig.cache
