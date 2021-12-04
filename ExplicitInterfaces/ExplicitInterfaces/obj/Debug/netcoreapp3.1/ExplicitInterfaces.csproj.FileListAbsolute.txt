@@ -1,0 +1,14 @@
+D:\Softuni C#\OOP\Abstraction\ExplicitInterfaces\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.exe
+D:\Softuni C#\OOP\Abstraction\ExplicitInterfaces\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.deps.json
+D:\Softuni C#\OOP\Abstraction\ExplicitInterfaces\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.json
+D:\Softuni C#\OOP\Abstraction\ExplicitInterfaces\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.dev.json
+D:\Softuni C#\OOP\Abstraction\ExplicitInterfaces\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+D:\Softuni C#\OOP\Abstraction\ExplicitInterfaces\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+D:\Softuni C#\OOP\Abstraction\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.csproj.AssemblyReference.cache
+D:\Softuni C#\OOP\Abstraction\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\OOP\Abstraction\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\Softuni C#\OOP\Abstraction\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfo.cs
+D:\Softuni C#\OOP\Abstraction\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+D:\Softuni C#\OOP\Abstraction\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+D:\Softuni C#\OOP\Abstraction\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+D:\Softuni C#\OOP\Abstraction\ExplicitInterfaces\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.genruntimeconfig.cache

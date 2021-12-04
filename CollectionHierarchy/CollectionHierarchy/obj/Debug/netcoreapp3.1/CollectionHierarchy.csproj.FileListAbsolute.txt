@@ -1,0 +1,14 @@
+D:\Softuni C#\OOP\Abstraction\CollectionHierarchy\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.exe
+D:\Softuni C#\OOP\Abstraction\CollectionHierarchy\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.deps.json
+D:\Softuni C#\OOP\Abstraction\CollectionHierarchy\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.runtimeconfig.json
+D:\Softuni C#\OOP\Abstraction\CollectionHierarchy\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.runtimeconfig.dev.json
+D:\Softuni C#\OOP\Abstraction\CollectionHierarchy\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.dll
+D:\Softuni C#\OOP\Abstraction\CollectionHierarchy\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.pdb
+D:\Softuni C#\OOP\Abstraction\CollectionHierarchy\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.csproj.AssemblyReference.cache
+D:\Softuni C#\OOP\Abstraction\CollectionHierarchy\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\OOP\Abstraction\CollectionHierarchy\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.AssemblyInfoInputs.cache
+D:\Softuni C#\OOP\Abstraction\CollectionHierarchy\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.AssemblyInfo.cs
+D:\Softuni C#\OOP\Abstraction\CollectionHierarchy\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.csproj.CoreCompileInputs.cache
+D:\Softuni C#\OOP\Abstraction\CollectionHierarchy\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.dll
+D:\Softuni C#\OOP\Abstraction\CollectionHierarchy\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.pdb
+D:\Softuni C#\OOP\Abstraction\CollectionHierarchy\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.genruntimeconfig.cache
