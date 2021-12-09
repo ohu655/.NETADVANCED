@@ -1,0 +1,13 @@
+D:\Softuni C#\OOP\Polymorphism\Animals\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\Softuni C#\OOP\Polymorphism\Animals\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\Softuni C#\OOP\Polymorphism\Animals\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\Softuni C#\OOP\Polymorphism\Animals\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\Softuni C#\OOP\Polymorphism\Animals\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\Softuni C#\OOP\Polymorphism\Animals\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\Softuni C#\OOP\Polymorphism\Animals\Animals\obj\Debug\netcoreapp3.1\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni C#\OOP\Polymorphism\Animals\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\Softuni C#\OOP\Polymorphism\Animals\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\Softuni C#\OOP\Polymorphism\Animals\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\Softuni C#\OOP\Polymorphism\Animals\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\Softuni C#\OOP\Polymorphism\Animals\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\Softuni C#\OOP\Polymorphism\Animals\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache
